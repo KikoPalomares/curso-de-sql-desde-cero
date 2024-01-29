@@ -48,14 +48,6 @@ Seleccionar todos los títulos de los posts de un usuario específico por usuari
 
     SELECT titulo FROM posts WHERE usuario_id = 5;
 
-Seleccionar usuarios y sus emails, ordenados alfabéticamente por nombre:
-
-    SELECT nombre, email FROM usuarios ORDER BY nombre ASC;
-
-Seleccionar los 5 primeros posts más recientes:
-
-    SELECT * FROM posts ORDER BY fecha_publicacion DESC LIMIT 5;
-
 Seleccionar usuarios que tienen una dirección de email de un dominio específico:
 
     SELECT * FROM usuarios WHERE email LIKE '%@example.com';
@@ -63,7 +55,3 @@ Seleccionar usuarios que tienen una dirección de email de un dominio específic
 Seleccionar posts que contienen una palabra específica en el título:
 
     SELECT * FROM posts WHERE titulo LIKE '%Viaje%';
-
-Seleccionar todos los campos de los usuarios cuya edad está entre 25 y 35 años:
-
-    SELECT * FROM usuarios WHERE edad BETWEEN 25 AND 35;

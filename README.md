@@ -31,7 +31,7 @@
   - Uso de `WHERE` para filtrar resultados.
   - Operadores lógicos y de comparación.
 
-### Clase 4: Filtrado y ordenamiento de datos
+### [Clase 4: Filtrado y ordenamiento de datos](/clases/clase_4_filtrado_ordenamiento_de_datos/clase.md)
 - **Objetivos:** Aprender a filtrar y ordenar los datos de las consultas de manera eficiente.
 - **Temas:**
   - Uso avanzado de `WHERE`.
