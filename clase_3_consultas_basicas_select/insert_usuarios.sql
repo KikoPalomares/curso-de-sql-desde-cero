@@ -1,0 +1,13 @@
+INSERT INTO usuarios (nombre, email, edad) VALUES ('Ana', 'ana@example.com', 25);
+INSERT INTO usuarios (nombre, email, edad) VALUES ('Luis', 'luis@example.com', 30);
+INSERT INTO usuarios (nombre, email, edad) VALUES ('Marta', 'marta@example.com', 28);
+INSERT INTO usuarios (nombre, email, edad) VALUES ('Carlos', 'carlos@example.com', 22);
+INSERT INTO usuarios (nombre, email, edad) VALUES ('Diana', 'diana@example.com', 35);
+INSERT INTO usuarios (nombre, email, edad) VALUES ('Elena', 'elena@example.com', 28);
+INSERT INTO usuarios (nombre, email, edad) VALUES ('Fernando', 'fernando@example.com', 40);
+INSERT INTO usuarios (nombre, email, edad) VALUES ('Gloria', 'gloria@example.com', 32);
+INSERT INTO usuarios (nombre, email, edad) VALUES ('Héctor', 'hector@example.com', 29);
+INSERT INTO usuarios (nombre, email, edad) VALUES ('Irene', 'irene@example.com', 24);
+INSERT INTO usuarios (nombre, email, edad) VALUES ('Jorge', 'jorge@example.com', 33);
+INSERT INTO usuarios (nombre, email, edad) VALUES ('Karen', 'karen@example.com', 27);
+INSERT INTO usuarios (nombre, email, edad) VALUES ('Luisa', 'luisa@example.com', 31);

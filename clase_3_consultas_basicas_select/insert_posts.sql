@@ -1,0 +1,13 @@
+INSERT INTO posts (usuario_id, titulo, contenido, fecha_publicacion) VALUES (1, 'Primer Post de Ana', 'Este es el contenido del primer post de Ana.', '2023-01-01 10:00:00');
+INSERT INTO posts (usuario_id, titulo, contenido, fecha_publicacion) VALUES (2, 'Post de Luis', 'Este es un post interesante de Luis.', '2023-01-02 12:30:00');
+INSERT INTO posts (usuario_id, titulo, contenido, fecha_publicacion) VALUES (1, 'Segundo Post de Ana', 'Ana escribe su segundo post.', '2023-01-03 15:45:00');
+INSERT INTO posts (usuario_id, titulo, contenido, fecha_publicacion) VALUES (4, 'Viaje a la Montaña', 'Descripción del viaje a la montaña.', '2023-01-04 09:20:00');
+INSERT INTO posts (usuario_id, titulo, contenido, fecha_publicacion) VALUES (5, 'Receta de Pan', 'Cómo hacer pan casero.', '2023-01-05 10:15:00');
+INSERT INTO posts (usuario_id, titulo, contenido, fecha_publicacion) VALUES (6, 'Reseña de Libro', 'Mi opinión sobre el último libro que leí.', '2023-01-06 11:00:00');
+INSERT INTO posts (usuario_id, titulo, contenido, fecha_publicacion) VALUES (7, 'Meditación y Salud', 'Beneficios de la meditación para la salud mental.', '2023-01-07 14:30:00');
+INSERT INTO posts (usuario_id, titulo, contenido, fecha_publicacion) VALUES (8, 'Top 5 de Cafés en la Ciudad', 'Los mejores cafés que he visitado este año.', '2023-01-08 16:00:00');
+INSERT INTO posts (usuario_id, titulo, contenido, fecha_publicacion) VALUES (9, 'Fotografía Nocturna', 'Consejos para mejorar tus fotos de noche.', '2023-01-09 18:45:00');
+INSERT INTO posts (usuario_id, titulo, contenido, fecha_publicacion) VALUES (10, 'Guía de Viajes: París', 'Los lugares que no te puedes perder en París.', '2023-01-10 20:00:00');
+INSERT INTO posts (usuario_id, titulo, contenido, fecha_publicacion) VALUES (11, 'Jardinería para Principiantes', 'Cómo empezar tu propio jardín en casa.', '2023-01-11 12:10:00');
+INSERT INTO posts (usuario_id, titulo, contenido, fecha_publicacion) VALUES (12, 'Mejorando la Productividad Personal', 'Técnicas que me han ayudado a ser más productivo.', '2023-01-12 13:20:00');
+INSERT INTO posts (usuario_id, titulo, contenido, fecha_publicacion) VALUES (13, 'Cuidado de Mascotas', 'Todo lo que necesitas saber para cuidar a tu mascota.', '2023-01-13 15:30:00');
