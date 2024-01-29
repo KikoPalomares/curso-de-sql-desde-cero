@@ -1,4 +1,4 @@
-# Curso de SQL usando ChatGPT
+![Curso de SQL usando ChatGPT](img/header.png)
 
 ## Herramientas:
 - **[Practice SQL](https://chat.openai.com/g/g-Vk0unkZFv-practice-sql)**: GPT que emula un SGBD, de esta forma no tienes que liarte con instalaciones y puedes comenzar lanzando queries directamente.
