@@ -5,7 +5,7 @@
 - **[Vídeo en YouTube](https://youtube.com/kikopalomares)**: en este vídeo acompañamos durante todo este curso explicando cada una de las clases.
 
 ## Índice del curso:
-### [Clase 1: Introducción a SQL](/clase_1_introduccion_a_SQL/clase.md)
+### [Clase 1: Introducción a SQL](/clases/clase_1_introduccion_a_SQL/clase.md)
 - **Objetivos:** Entender qué es SQL, para qué se utiliza, y cómo funciona en el contexto de las bases de datos relacionales.
 - **Temas:**
   - Historia y evolución de SQL.
@@ -13,7 +13,7 @@
   - Diferencias entre SQL y otros lenguajes de programación.
   - Instalación de un sistema de gestión de bases de datos (SGBD) como MySQL, PostgreSQL, o SQLite para prácticas.
 
-### [Clase 2: Creación de tablas](/clase_2_comprendiendo_las_bases_de_datos_y_tablas/clase.md)
+### [Clase 2: Creación de tablas](/clases/clase_2_comprendiendo_las_bases_de_datos_y_tablas/clase.md)
 - **Objetivos:** Aprender a navegar por una base de datos y entender la estructura de las tablas.
 - **Temas:**
   - Uso de comandos básicos: `SHOW DATABASES`, `USE`, `SHOW TABLES`.
@@ -23,7 +23,7 @@
   - Tipos de datos en SQL.
   - Restricciones y claves foráneas.
 
-### [Clase 3: Consultas básicas (SELECT)](/clase_3_consultas_basicas_select/clase.md)
+### [Clase 3: Consultas básicas (SELECT)](/clases/clase_3_consultas_basicas_select/clase.md)
 - **Objetivos:** Realizar consultas simples para recuperar datos de una base de datos.
 - **Temas:**
   - Sintaxis básica de `SELECT`.

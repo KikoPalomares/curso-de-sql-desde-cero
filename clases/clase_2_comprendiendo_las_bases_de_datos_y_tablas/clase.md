@@ -1,4 +1,4 @@
-[⬅ Volver al índice](../README.md)
+[⬅ Volver al índice](../../README.md)
 
 ## Clase 2: Creación y diseño de bases de datos
 
