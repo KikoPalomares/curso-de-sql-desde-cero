@@ -8,12 +8,15 @@
   - Diferencias entre SQL y otros lenguajes de programación.
   - Instalación de un sistema de gestión de bases de datos (SGBD) como MySQL, PostgreSQL, o SQLite para prácticas.
 
-### Clase 2: Comprendiendo las bases de datos y tablas
+### Clase 2: Creación y diseño de bases de datos
 - **Objetivos:** Aprender a navegar por una base de datos y entender la estructura de las tablas.
 - **Temas:**
   - Uso de comandos básicos: `SHOW DATABASES`, `USE`, `SHOW TABLES`.
   - Entender la estructura de una tabla: `DESCRIBE table_name`.
   - Conceptos clave: tabla, fila, columna, clave primaria.
+  - Crear bases de datos y tablas con `CREATE DATABASE` y `CREATE TABLE`.
+  - Tipos de datos en SQL.
+  - Restricciones y claves foráneas.
 
 ### Clase 3: Consultas básicas (SELECT)
 - **Objetivos:** Realizar consultas simples para recuperar datos de una base de datos.
@@ -57,14 +60,7 @@
   - Actualizar datos con `UPDATE`.
   - Eliminar datos con `DELETE`.
 
-### Clase 9: Creación y diseño de bases de datos
-- **Objetivos:** Comprender cómo crear y diseñar una base de datos y sus objetos.
-- **Temas:**
-  - Crear bases de datos y tablas con `CREATE DATABASE` y `CREATE TABLE`.
-  - Tipos de datos en SQL.
-  - Restricciones y claves foráneas.
-
-### Clase 10: Prácticas avanzadas y optimización
+### Clase 9: Prácticas avanzadas y optimización
 - **Objetivos:** Introducir conceptos avanzados y buenas prácticas para optimizar consultas.
 - **Temas:**
   - Vistas (`CREATE VIEW`).
