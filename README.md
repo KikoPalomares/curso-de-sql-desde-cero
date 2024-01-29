@@ -4,6 +4,7 @@
 - **[Practice SQL](https://chat.openai.com/g/g-Vk0unkZFv-practice-sql)**: GPT que emula un SGBD, de esta forma no tienes que liarte con instalaciones y puedes comenzar lanzando queries directamente.
 - **[Vídeo en YouTube](https://youtube.com/kikopalomares)**: en este vídeo acompañamos durante todo este curso explicando cada una de las clases.
 
+## Índice del curso:
 ### [Clase 1: Introducción a SQL](/clase_1_introduccion_a_SQL/clase.md)
 - **Objetivos:** Entender qué es SQL, para qué se utiliza, y cómo funciona en el contexto de las bases de datos relacionales.
 - **Temas:**
@@ -22,7 +23,7 @@
   - Tipos de datos en SQL.
   - Restricciones y claves foráneas.
 
-### Clase 3: Consultas básicas (SELECT)
+### [Clase 3: Consultas básicas (SELECT)](/clase_3_consultas_basicas_select/clase.md)
 - **Objetivos:** Realizar consultas simples para recuperar datos de una base de datos.
 - **Temas:**
   - Sintaxis básica de `SELECT`.
