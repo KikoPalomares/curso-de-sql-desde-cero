@@ -26,10 +26,44 @@ Para poder practicar y aprender efectivamente cómo realizar consultas `SELECT`,
 - **Operadores de comparación:** `=`, `!=`, `>`, `<`, `>=`, `<=`.
 - **Operadores lógicos:** `AND`, `OR`, `NOT` para combinar múltiples condiciones.
 
-### Ejercicios Prácticos
-1. Realizar una consulta para seleccionar todos los registros de una tabla de tu elección.
-2. Escribir una consulta para seleccionar registros que cumplan con una condición específica (por ejemplo, todos los empleados mayores de 30 años).
-3. Utilizar operadores lógicos para combinar condiciones (por ejemplo, seleccionar empleados mayores de 30 años que pertenezcan a un departamento específico).
+### Ejemplos
 
-### Tarea
-- Crear una consulta que seleccione nombres y emails de empleados de un departamento específico, ordenados alfabéticamente por nombre.
+Seleccionar todos los campos de todos los usuarios:
+
+    SELECT * FROM usuarios;
+
+Seleccionar solo el nombre y el email de todos los usuarios:
+
+    SELECT nombre, email FROM usuarios;
+
+Seleccionar todos los campos de los posts publicados después de una fecha específica:
+
+    SELECT * FROM posts WHERE fecha_publicacion > '2023-01-05';
+
+Seleccionar los nombres de los usuarios que tienen más de 30 años:
+
+    SELECT nombre FROM usuarios WHERE edad > 30;
+
+Seleccionar todos los títulos de los posts de un usuario específico por usuario_id:
+
+    SELECT titulo FROM posts WHERE usuario_id = 5;
+
+Seleccionar usuarios y sus emails, ordenados alfabéticamente por nombre:
+
+    SELECT nombre, email FROM usuarios ORDER BY nombre ASC;
+
+Seleccionar los 5 primeros posts más recientes:
+
+    SELECT * FROM posts ORDER BY fecha_publicacion DESC LIMIT 5;
+
+Seleccionar usuarios que tienen una dirección de email de un dominio específico:
+
+    SELECT * FROM usuarios WHERE email LIKE '%@example.com';
+
+Seleccionar posts que contienen una palabra específica en el título:
+
+    SELECT * FROM posts WHERE titulo LIKE '%Viaje%';
+
+Seleccionar todos los campos de los usuarios cuya edad está entre 25 y 35 años:
+
+    SELECT * FROM usuarios WHERE edad BETWEEN 25 AND 35;
