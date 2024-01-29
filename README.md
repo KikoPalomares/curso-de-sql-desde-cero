@@ -8,7 +8,7 @@
   - Diferencias entre SQL y otros lenguajes de programación.
   - Instalación de un sistema de gestión de bases de datos (SGBD) como MySQL, PostgreSQL, o SQLite para prácticas.
 
-### Clase 2: Creación y diseño de bases de datos
+### [Clase 2: Creación y diseño de bases de datos](/clase_2_comprendiendo_las_bases_de_datos_y_tablas/clase.md)
 - **Objetivos:** Aprender a navegar por una base de datos y entender la estructura de las tablas.
 - **Temas:**
   - Uso de comandos básicos: `SHOW DATABASES`, `USE`, `SHOW TABLES`.
